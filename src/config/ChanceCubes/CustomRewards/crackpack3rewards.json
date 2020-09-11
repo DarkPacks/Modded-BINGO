@@ -1,0 +1,428 @@
+{
+  "JSano": {
+    "chance": 15,
+    "Message": [
+      {
+        "message": "That cat is stuck up in that tree! Quick someone get JSano!"
+      }
+    ],
+    "Block": [
+      {
+        "xOffSet": 0,
+        "yOffSet": 0,
+        "zOffSet": 0,
+        "block": "minecraft:log"
+      },
+      {
+        "xOffSet": 0,
+        "yOffSet": 1,
+        "zOffSet": 0,
+        "block": "minecraft:log"
+      },
+      {
+        "xOffSet": 0,
+        "yOffSet": 2,
+        "zOffSet": 0,
+        "block": "minecraft:log"
+      },
+      {
+        "xOffSet": 0,
+        "yOffSet": 3,
+        "zOffSet": 0,
+        "block": "minecraft:log"
+      },
+      {
+        "xOffSet": 0,
+        "yOffSet": 4,
+        "zOffSet": 0,
+        "block": "minecraft:log"
+      },
+      {
+        "xOffSet": 0,
+        "yOffSet": 5,
+        "zOffSet": 0,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": -1,
+        "yOffSet": 4,
+        "zOffSet": -1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 0,
+        "yOffSet": 4,
+        "zOffSet": -1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 1,
+        "yOffSet": 4,
+        "zOffSet": -1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": -1,
+        "yOffSet": 4,
+        "zOffSet": 0,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 1,
+        "yOffSet": 4,
+        "zOffSet": 0,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": -1,
+        "yOffSet": 4,
+        "zOffSet": 1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 0,
+        "yOffSet": 4,
+        "zOffSet": 1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 1,
+        "yOffSet": 4,
+        "zOffSet": 1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": -1,
+        "yOffSet": 3,
+        "zOffSet": -1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 0,
+        "yOffSet": 3,
+        "zOffSet": -1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 1,
+        "yOffSet": 3,
+        "zOffSet": -1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": -1,
+        "yOffSet": 3,
+        "zOffSet": 0,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 1,
+        "yOffSet": 3,
+        "zOffSet": 0,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": -1,
+        "yOffSet": 3,
+        "zOffSet": 1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 0,
+        "yOffSet": 3,
+        "zOffSet": 1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 1,
+        "yOffSet": 3,
+        "zOffSet": 1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": -2,
+        "yOffSet": 3,
+        "zOffSet": -2,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": -1,
+        "yOffSet": 3,
+        "zOffSet": -2,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 0,
+        "yOffSet": 3,
+        "zOffSet": -2,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 1,
+        "yOffSet": 3,
+        "zOffSet": -2,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 2,
+        "yOffSet": 3,
+        "zOffSet": -2,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": -2,
+        "yOffSet": 3,
+        "zOffSet": -1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": -1,
+        "yOffSet": 3,
+        "zOffSet": -1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 0,
+        "yOffSet": 3,
+        "zOffSet": -1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 1,
+        "yOffSet": 3,
+        "zOffSet": -1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 2,
+        "yOffSet": 3,
+        "zOffSet": -1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": -2,
+        "yOffSet": 3,
+        "zOffSet": 0,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": -1,
+        "yOffSet": 3,
+        "zOffSet": 0,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 1,
+        "yOffSet": 3,
+        "zOffSet": 0,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 2,
+        "yOffSet": 3,
+        "zOffSet": 0,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": -2,
+        "yOffSet": 3,
+        "zOffSet": 1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": -1,
+        "yOffSet": 3,
+        "zOffSet": 1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 0,
+        "yOffSet": 3,
+        "zOffSet": 1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 1,
+        "yOffSet": 3,
+        "zOffSet": 1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 2,
+        "yOffSet": 3,
+        "zOffSet": 1,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": -2,
+        "yOffSet": 3,
+        "zOffSet": 2,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": -1,
+        "yOffSet": 3,
+        "zOffSet": 2,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 0,
+        "yOffSet": 3,
+        "zOffSet": 2,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 1,
+        "yOffSet": 3,
+        "zOffSet": 2,
+        "block": "minecraft:leaves"
+      },
+      {
+        "xOffSet": 2,
+        "yOffSet": 3,
+        "zOffSet": 2,
+        "block": "minecraft:leaves"
+      }
+    ],
+    "Command": [
+      {
+        "command": "/summon ocelot %x ~6 %z {CatType:1,Sitting:1}"
+      }
+    ]
+  },
+  "KurtJMac": {
+    "chance": 20,
+    "Message": [
+      {
+        "message": "<KurtJMac> All aboard! Next stop: The Far Lands!"
+      }
+    ],
+    "Block": [
+      {
+        "xOffSet": 0,
+        "yOffSet": 1,
+        "zOffSet": 0,
+        "block": "minecraft:air"
+      },
+      {
+        "xOffSet": 0,
+        "yOffSet": 0,
+        "zOffSet": 0,
+        "block": "minecraft:rail"
+      },
+      {
+        "xOffSet": 1,
+        "yOffSet": 1,
+        "zOffSet": 0,
+        "block": "minecraft:air"
+      },
+      {
+        "xOffSet": 1,
+        "yOffSet": 0,
+        "zOffSet": 0,
+        "block": "minecraft:rail"
+      },
+      {
+        "xOffSet": 2,
+        "yOffSet": 1,
+        "zOffSet": 0,
+        "block": "minecraft:air"
+      },
+      {
+        "xOffSet": 2,
+        "yOffSet": 0,
+        "zOffSet": 0,
+        "block": "minecraft:rail"
+      },
+      {
+        "xOffSet": 3,
+        "yOffSet": 1,
+        "zOffSet": 0,
+        "block": "minecraft:air"
+      },
+      {
+        "xOffSet": 3,
+        "yOffSet": 0,
+        "zOffSet": 0,
+        "block": "minecraft:rail"
+      },
+      {
+        "xOffSet": 4,
+        "yOffSet": 1,
+        "zOffSet": 0,
+        "block": "minecraft:air"
+      },
+      {
+        "xOffSet": 4,
+        "yOffSet": 0,
+        "zOffSet": 0,
+        "block": "minecraft:rail"
+      },
+      {
+        "xOffSet": 5,
+        "yOffSet": 1,
+        "zOffSet": 0,
+        "block": "minecraft:air"
+      },
+      {
+        "xOffSet": 5,
+        "yOffSet": 0,
+        "zOffSet": 0,
+        "block": "minecraft:rail"
+      },
+      {
+        "xOffSet": 6,
+        "yOffSet": 1,
+        "zOffSet": 0,
+        "block": "minecraft:air"
+      },
+      {
+        "xOffSet": 6,
+        "yOffSet": 0,
+        "zOffSet": 0,
+        "block": "minecraft:rail"
+      },
+      {
+        "xOffSet": 7,
+        "yOffSet": 1,
+        "zOffSet": 0,
+        "block": "minecraft:air"
+      },
+      {
+        "xOffSet": 7,
+        "yOffSet": 0,
+        "zOffSet": 0,
+        "block": "minecraft:rail"
+      },
+      {
+        "xOffSet": 8,
+        "yOffSet": 1,
+        "zOffSet": 0,
+        "block": "minecraft:air"
+      },
+      {
+        "xOffSet": 8,
+        "yOffSet": 0,
+        "zOffSet": 0,
+        "block": "minecraft:rail"
+      },
+      {
+        "xOffSet": 9,
+        "yOffSet": 1,
+        "zOffSet": 0,
+        "block": "minecraft:air"
+      },
+      {
+        "xOffSet": 9,
+        "yOffSet": 0,
+        "zOffSet": 0,
+        "block": "minecraft:rail"
+      }
+    ],
+    "Command": [
+      {
+        "command": "/summon minecart %x ~1 %z"
+      }
+    ]
+  }
+}

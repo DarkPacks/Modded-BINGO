@@ -1,0 +1,42 @@
+Bingo = registerPreset("BOP Survival", "images/world1", "Survival", "BIOMESOP")
+Bingo.registerDimension(66, "BINGO/BINGO")
+Bingo.registerDimension(-1, "BINGO/BINGO_DIMS")
+Bingo.addInitialServerFunction("triumph:spawn_radius")
+Bingo.disableNetherPortal()
+
+Bingo = registerPreset("BOPHex Survival", "images/world1", "Survival", "bophex")
+Bingo.registerDimension(66, "BINGO/BINGO")
+Bingo.registerDimension(-1, "BINGO/BINGO_DIMS")
+Bingo.addInitialServerFunction("triumph:spawn_radius")
+Bingo.disableNetherPortal()
+
+Bingo = registerPreset("Bingo", "images/world1", "BINGO!", "bophex")
+Bingo.registerDimension(66, "BINGO/BINGO")
+Bingo.registerDimension(-1, "BINGO/BINGO_DIMS")
+Bingo.registerDimension(1, "BINGO/BINGO_DIMS")
+Bingo.addInitialServerFunction("triumph:spawn_radius")
+Bingo.addInitialPlayerFunction("triumph:setDim")
+Bingo.disableNetherPortal()
+
+Bingo = registerPreset("BINGO Quickplay", "images/world1", "BINGO but default", "bophex")
+Bingo.addInitialPlayerFunction("triumph:default_bingo")
+Bingo.addInitialServerFunction("triumph:spawn_radius")
+Bingo.disableNetherPortal()
+
+
+
+Bingo = registerPreset("Blackout BINGO Quickplay", "images/world1", "BINGO!", "bophex")
+Bingo.registerDimension(66, "BINGO/BINGO")
+Bingo.registerDimension(-1, "BINGO/BINGO_DIMS")
+Bingo.registerDimension(1, "BINGO/BINGO_DIMS")
+Bingo.addInitialServerFunction("triumph:spawn_radius")
+Bingo.addInitialPlayerFunction("triumph:blackout_bingo")
+Bingo.disableNetherPortal()
+
+
+
+
+
+
+setAsDefaultWorldType()
+printDocumentation(false)

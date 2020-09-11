@@ -1,0 +1,2 @@
+bingo create bingo:default false true
+bingo start

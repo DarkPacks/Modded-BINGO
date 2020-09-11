@@ -1,0 +1,543 @@
+[
+  {
+    "content": "minecraft:dirt",
+    "amount": {
+      "min": 16,
+      "max": 128
+    },
+    "unitWorth": 5,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:stone",
+    "amount": {
+      "min": 16,
+      "max": 128
+    },
+    "unitWorth": 10,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:cobblestone",
+    "amount": {
+      "min": 16,
+      "max": 128
+    },
+    "unitWorth": 7,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:fish",
+    "amount": {
+      "min": 1,
+      "max": 16
+    },
+    "unitWorth": 80,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:apple",
+    "amount": {
+      "min": 1,
+      "max": 16
+    },
+    "unitWorth": 70,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:book",
+    "amount": {
+      "min": 2,
+      "max": 16
+    },
+    "unitWorth": 80,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:cactus",
+    "amount": {
+      "min": 2,
+      "max": 16
+    },
+    "unitWorth": 80,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:diamond",
+    "amount": {
+      "min": 1,
+      "max": 8
+    },
+    "unitWorth": 1600,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:dispenser",
+    "amount": {
+      "min": 1,
+      "max": 6
+    },
+    "unitWorth": 200,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:iron_ingot",
+    "amount": {
+      "min": 1,
+      "max": 20
+    },
+    "unitWorth": 200,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:bread",
+    "amount": {
+      "min": 1,
+      "max": 12
+    },
+    "unitWorth": 60,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:rotten_flesh",
+    "amount": {
+      "min": 1,
+      "max": 24
+    },
+    "unitWorth": 55,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:sign",
+    "amount": {
+      "min": 8,
+      "max": 16
+    },
+    "unitWorth": 65,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:spider_eye",
+    "amount": {
+      "min": 1,
+      "max": 8
+    },
+    "unitWorth": 75,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:string",
+    "amount": {
+      "min": 1,
+      "max": 24
+    },
+    "unitWorth": 35,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:sugar",
+    "amount": {
+      "min": 1,
+      "max": 16
+    },
+    "unitWorth": 55,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:tripwire_hook",
+    "amount": {
+      "min": 2,
+      "max": 8
+    },
+    "unitWorth": 70,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:wheat",
+    "amount": {
+      "min": 4,
+      "max": 48
+    },
+    "unitWorth": 20,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:leather",
+    "amount": {
+      "min": 4,
+      "max": 12
+    },
+    "unitWorth": 90,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:obsidian",
+    "amount": {
+      "min": 4,
+      "max": 32
+    },
+    "unitWorth": 120,
+    "weight": 70
+  },
+  {
+    "content": "candymod:cotton_candy",
+    "amount": {
+      "min": 1,
+      "max": 48
+    },
+    "unitWorth": 20,
+    "weight": 100
+  },
+  {
+    "content": "candymod:gummy_worm:4",
+    "amount": {
+      "min": 1,
+      "max": 48
+    },
+    "unitWorth": 20,
+    "weight": 100
+  },
+  {
+    "content": "candymod:gummy_worm:1",
+    "amount": {
+      "min": 1,
+      "max": 48
+    },
+    "unitWorth": 20,
+    "weight": 100
+  },
+  {
+    "content": "candymod:gummy_worm",
+    "amount": {
+      "min": 1,
+      "max": 48
+    },
+    "unitWorth": 20,
+    "weight": 100
+  },
+  {
+    "content": "candymod:gummy_worm:3",
+    "amount": {
+      "min": 1,
+      "max": 48
+    },
+    "unitWorth": 20,
+    "weight": 100
+  },
+  {
+    "content": "entity:minecraft:villager",
+    "amount": {
+      "min": 3,
+      "max": 6
+    },
+    "unitWorth": 350,
+    "weight": 100
+  },
+  {
+    "content": "entity:minecraft:guardian",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 300,
+    "weight": 80
+  },
+  {
+    "content": "entity:minecraft:pig",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 100,
+    "weight": 200
+  },
+  {
+    "content": "entity:minecraft:cow",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 100,
+    "weight": 200
+  },
+  {
+    "content": "entity:minecraft:chicken",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 100,
+    "weight": 200
+  },
+  {
+    "content": "entity:minecraft:ghast",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 350,
+    "weight": 100
+  },
+  {
+    "content": "entity:candymod:gummy_mouse",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 120,
+    "weight": 150
+  },
+  {
+    "content": "entity:candymod:gummy_bear",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 160,
+    "weight": 100
+  },
+  {
+    "content": "entity:minecraft:sheep",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 100,
+    "weight": 200
+  },
+  {
+    "content": "minecraft:potion",
+    "amount": {
+      "min": 1,
+      "max": 3
+    },
+    "unitWorth": 300,
+    "weight": 100,
+    "nbt_data": "{Potion: \"minecraft:healing\"}"
+  },
+  {
+    "content": "beasts:brown_shell_block",
+    "amount": {
+      "min": 1,
+      "max": 8
+    },
+    "unitWorth": 200,
+    "weight": 60
+  },
+  {
+    "content": "biomesoplenty:coral:3",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 80,
+    "weight": 80
+  },
+  {
+    "content": "biomesoplenty:coral:1",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 80,
+    "weight": 80
+  },
+  {
+    "content": "biomesoplenty:coral",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 80,
+    "weight": 80
+  },
+  {
+    "content": "minecraft:glass",
+    "amount": {
+      "min": 1,
+      "max": 16
+    },
+    "unitWorth": 30,
+    "weight": 90
+  },
+  {
+    "content": "minecraft:glass_pane",
+    "amount": {
+      "min": 6,
+      "max": 32
+    },
+    "unitWorth": 15,
+    "weight": 75
+  },
+  {
+    "content": "biomesoplenty:crystal_shard",
+    "amount": {
+      "min": 1,
+      "max": 16
+    },
+    "unitWorth": 150,
+    "weight": 75
+  },
+  {
+    "content": "minecraft:redstone",
+    "amount": {
+      "min": 8,
+      "max": 24
+    },
+    "unitWorth": 75,
+    "weight": 85
+  },
+  {
+    "content": "minecraft:dye:4",
+    "amount": {
+      "min": 8,
+      "max": 24
+    },
+    "unitWorth": 75,
+    "weight": 100
+  },
+  {
+    "content": "biomesoplenty:berries",
+    "amount": {
+      "min": 1,
+      "max": 8
+    },
+    "unitWorth": 10,
+    "weight": 60
+  },
+  {
+    "content": "minecraft:leaves",
+    "amount": {
+      "min": 4,
+      "max": 16
+    },
+    "unitWorth": 10,
+    "weight": 60
+  },
+  {
+    "content": "minecraft:clay_ball",
+    "amount": {
+      "min": 4,
+      "max": 32
+    },
+    "unitWorth": 75,
+    "weight": 100
+  },
+  {
+    "content": "minecraft:egg",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 60,
+    "weight": 70
+  },
+  {
+    "content": "candymod:chocolate_egg",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 100,
+    "weight": 60
+  },
+  {
+    "content": "candymod:chocolate_egg:1",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 100,
+    "weight": 60
+  },
+  {
+    "content": "candymod:chocolate_egg:2",
+    "amount": {
+      "min": 1,
+      "max": 1
+    },
+    "unitWorth": 100,
+    "weight": 60
+  },
+  {
+    "content": "beasts:coral_essence:1",
+    "amount": {
+      "min": 1,
+      "max": 8
+    },
+    "unitWorth": 60,
+    "weight": 40
+  },
+  {
+    "content": "beasts:coral_block:1",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 100,
+    "weight": 100
+  },
+  {
+    "content": "beasts:shell_block",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 120,
+    "weight": 50
+  },
+  {
+    "content": "beasts:coral_essence",
+    "amount": {
+      "min": 1,
+      "max": 8
+    },
+    "unitWorth": 60,
+    "weight": 40
+  },
+  {
+    "content": "beasts:coral_block",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 120,
+    "weight": 50
+  },
+  {
+    "content": "minecraft:obsidian",
+    "amount": {
+      "min": 1,
+      "max": 16
+    },
+    "unitWorth": 200,
+    "weight": 60
+  },
+  {
+    "content": "beasts:coral_block:3",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 120,
+    "weight": 50
+  },
+  {
+    "content": "beasts:coral_essence:3",
+    "amount": {
+      "min": 1,
+      "max": 8
+    },
+    "unitWorth": 60,
+    "weight": 40
+  },
+  {
+    "content": "beasts:coral_block:4",
+    "amount": {
+      "min": 1,
+      "max": 4
+    },
+    "unitWorth": 120,
+    "weight": 50
+  }
+]

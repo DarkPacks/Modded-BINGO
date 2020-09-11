@@ -1,0 +1,1 @@
+forge setdimension @p 66

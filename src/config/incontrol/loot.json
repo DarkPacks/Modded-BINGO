@@ -1,0 +1,56 @@
+[
+  {
+    "mob": "candymod:gummy_mouse",
+    "item": "minecraft:slime_ball",
+    "random": 0.12,
+    "itemcount": "1-3/0/0"
+  },
+  {
+    "mob": "candymod:gummy_mouse",
+    "item": "minecraft:slime_ball",
+    "random": 0.16,
+    "itemcount": "0/1-3/0"
+  },
+  {
+    "mob": "candymod:gummy_mouse",
+    "item": "minecraft:slime_ball",
+    "random": 0.24,
+    "itemcount": "0/0/2-5"
+  },
+  {
+    "mob": "candymod:gummy_bear",
+    "item": "minecraft:slime_ball",
+    "random": 0.12,
+    "itemcount": "1-3/0/0"
+  },
+  {
+    "mob": "candymod:gummy_bear",
+    "item": "minecraft:slime_ball",
+    "random": 0.16,
+    "itemcount": "0/1-3/0"
+  },
+  {
+    "mob": "candymod:gummy_bear",
+    "item": "minecraft:slime_ball",
+    "random": 0.24,
+    "itemcount": "0/0/2-5"
+  },
+  {
+    "mob": "trumpetskeleton:trumpet_skeleton",
+    "item": "trumpetskeleton:trumpet",
+    "random": 0.18,
+    "itemcount": "1/0/0"
+  },
+  {
+    "mob": "trumpetskeleton:trumpet_skeleton",
+    "item": "trumpetskeleton:trumpet",
+    "random": 0.26,
+    "itemcount": "0/1/0"
+  },
+  {
+    "mob": "trumpetskeleton:trumpet_skeleton",
+    "item": "trumpetskeleton:trumpet",
+    "random": 0.32,
+    "itemcount": "0/0/1"
+  }
+]

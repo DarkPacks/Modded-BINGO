@@ -1,0 +1,302 @@
+[
+  {
+    "dimension": 0,
+    "block": "minecraft:netherrack",
+    "mobs": [
+      {
+        "mob": "minecraft:ghast",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "minecraft:netherrack",
+    "mobs": [
+      {
+        "mob": "specialmobs:specialblaze",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "minecraft:netherrack",
+    "mobs": [
+      {
+        "mob": "specialmobs:cinderblaze",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "minecraft:netherrack",
+    "mobs": [
+      {
+        "mob": "specialmobs:conflagrationblaze",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "minecraft:netherrack",
+    "mobs": [
+      {
+        "mob": "specialmobs:emberblaze",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "minecraft:netherrack",
+    "mobs": [
+      {
+        "mob": "specialmobs:infernoblaze",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "minecraft:netherrack",
+    "mobs": [
+      {
+        "mob": "specialmobs:joltblaze",
+        "weight": 250,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "minecraft:netherrack",
+    "mobs": [
+      {
+        "mob": "specialmobs:wildfireblaze",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "minecraft:end_stone",
+    "mobs": [
+      {
+        "mob": "specialmobs:blindingenderman",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "minecraft:end_stone",
+    "mobs": [
+      {
+        "mob": "specialmobs:icyenderman",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "minecraft:end_stone",
+    "mobs": [
+      {
+        "mob": "specialmobs:lightningenderman",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "minecraft:end_stone",
+    "mobs": [
+      {
+        "mob": "specialmobs:minienderman",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "minecraft:end_stone",
+    "mobs": [
+      {
+        "mob": "specialmobs:mirageenderman",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "minecraft:end_stone",
+    "mobs": [
+      {
+        "mob": "specialmobs:thiefenderman",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "minecraft:end_stone",
+    "mobs": [
+      {
+        "mob": "specialmobs:specialenderman",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "minecraft:end_stone",
+    "mobs": [
+      {
+        "mob": "specialmobs:specialenderman",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 1,
+    "block": "minecraft:end_stone",
+    "mobs": [
+      {
+        "mob": "specialmobs:blindingenderman",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 2
+      }
+    ]
+  },
+  {
+    "dimension": 1,
+    "block": "minecraft:end_stone",
+    "mobs": [
+      {
+        "mob": "specialmobs:icyenderman",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 1,
+    "block": "minecraft:end_stone",
+    "mobs": [
+      {
+        "mob": "specialmobs:lightningenderman",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 1,
+    "block": "minecraft:end_stone",
+    "mobs": [
+      {
+        "mob": "specialmobs:minienderman",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 1,
+    "block": "minecraft:end_stone",
+    "mobs": [
+      {
+        "mob": "specialmobs:mirageenderman",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 1,
+    "block": "minecraft:end_stone",
+    "mobs": [
+      {
+        "mob": "specialmobs:thiefenderman",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 1,
+    "block": "minecraft:end_stone",
+    "mobs": [
+      {
+        "mob": "specialmobs:specialenderman",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 1,
+    "block": "minecraft:end_stone",
+    "mobs": [
+      {
+        "mob": "specialmobs:specialenderman",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  },
+  {
+    "dimension": 0,
+    "block": "minecraft:water",
+    "mobs": [
+      {
+        "mob": "minecraft:guardian",
+        "weight": 1000,
+        "groupcountmin": 1,
+        "groupcountmax": 1
+      }
+    ]
+  }
+]

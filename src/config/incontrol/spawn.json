@@ -1,0 +1,335 @@
+[
+  {
+    "mob": "beasts:scallop",
+    "result": "deny"
+  },
+  {
+    "mob": "specialmobs:specialghast",
+    "result": "deny"
+  },
+  {
+    "mob": "specialmobs:babyghast",
+    "result": "deny"
+  },
+  {
+    "mob": "specialmobs:fighterghast",
+    "result": "deny"
+  },
+  {
+    "mob": "specialmobs:kingghast",
+    "result": "deny"
+  },
+  {
+    "mob": "specialmobs:queenghast",
+    "result": "deny"
+  },
+  {
+    "mob": "specialmobs:unholyghast",
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "seesky": true,
+    "mob": "minecraft:ghast",
+    "maxcount": {
+      "amount": 1,
+      "mob": "minecraft:ghast"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "minecraft:ghast",
+    "mincount": {
+      "amount": 2,
+      "mob": "minecraft:ghast"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "minecraft:shulker",
+    "mincount": {
+      "amount": 4,
+      "mob": "minecraft:shulker"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 1,
+    "mob": "minecraft:shulker",
+    "mincount": {
+      "amount": 10,
+      "mob": "minecraft:shulker"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "specialmobs:blindingenderman",
+    "mincount": {
+      "amount": 1,
+      "mob": "specialmobs:blindingenderman"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "specialmobs:icyenderman",
+    "mincount": {
+      "amount": 1,
+      "mob": "specialmobs:icyenderman"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "specialmobs:lightningenderman",
+    "mincount": {
+      "amount": 1,
+      "mob": "specialmobs:lightningenderman"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "specialmobs:minienderman",
+    "mincount": {
+      "amount": 1,
+      "mob": "specialmobs:minienderman"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "specialmobs:mirageenderman",
+    "mincount": {
+      "amount": 1,
+      "mob": "specialmobs:mirageenderman"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "specialmobs:thiefenderman",
+    "mincount": {
+      "amount": 1,
+      "mob": "specialmobs:thiefenderman"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "specialmobs:specialenderman",
+    "mincount": {
+      "amount": 3,
+      "mob": "specialmobs:specialenderman"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "minecraft:enderman",
+    "mincount": {
+      "amount": 4,
+      "mob": "minecraft:enderman"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 1,
+    "mob": "specialmobs:blindingenderman",
+    "mincount": {
+      "amount": 10,
+      "mob": "specialmobs:blindingenderman"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 1,
+    "mob": "specialmobs:icyenderman",
+    "mincount": {
+      "amount": 10,
+      "mob": "specialmobs:icyenderman"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 1,
+    "mob": "specialmobs:lightningenderman",
+    "mincount": {
+      "amount": 10,
+      "mob": "specialmobs:lightningenderman"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 1,
+    "mob": "specialmobs:minienderman",
+    "mincount": {
+      "amount": 10,
+      "mob": "specialmobs:minienderman"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 1,
+    "mob": "specialmobs:mirageenderman",
+    "mincount": {
+      "amount": 10,
+      "mob": "specialmobs:mirageenderman"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 1,
+    "mob": "specialmobs:thiefenderman",
+    "mincount": {
+      "amount": 10,
+      "mob": "specialmobs:thiefenderman"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 1,
+    "mob": "specialmobs:specialenderman",
+    "mincount": {
+      "amount": 10,
+      "mob": "specialmobs:specialenderman"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 1,
+    "mob": "minecraft:enderman",
+    "mincount": {
+      "amount": 10,
+      "mob": "minecraft:enderman"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "magma_monsters:magma_monster",
+    "mincount": {
+      "amount": 8,
+      "mob": "magma_monsters:magma_monster"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "magma_monsters:magma_monster_grunt",
+    "mincount": {
+      "amount": 6,
+      "mob": "magma_monsters:magma_monster_grunt"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "minecraft:blaze",
+    "mincount": {
+      "amount": 4,
+      "mob": "minecraft:blaze"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "seesky": true,
+    "mob": "specialmobs:specialblaze",
+    "maxcount": {
+      "amount": 3,
+      "mob": "specialmobs:specialblaze"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "specialmobs:specialblaze",
+    "mincount": {
+      "amount": 4,
+      "mob": "specialmobs:specialblaze"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "specialmobs:cinderblaze",
+    "mincount": {
+      "amount": 1,
+      "mob": "specialmobs:cinderblaze"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "specialmobs:conflagrationblaze",
+    "mincount": {
+      "amount": 1,
+      "mob": "specialmobs:conflagrationblaze"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "specialmobs:emberblaze",
+    "mincount": {
+      "amount": 1,
+      "mob": "specialmobs:emberblaze"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "specialmobs:infernoblaze",
+    "mincount": {
+      "amount": 1,
+      "mob": "specialmobs:infernoblaze"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "specialmobs:joltblaze",
+    "mincount": {
+      "amount": 1,
+      "mob": "specialmobs:joltblaze"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "mob": "specialmobs:wildfireblaze",
+    "mincount": {
+      "amount": 1,
+      "mob": "specialmobs:wildfireblaze"
+    },
+    "result": "deny"
+  },
+  {
+    "dimension": 0,
+    "biome": [
+      "minecraft:ocean",
+      "minecraft:deep_ocean",
+      "biomesoplenty:kelp_forest",
+      "biomesoplenty:coral_reef"
+    ],
+    "mob": "minecraft:guardian",
+    "mincount": {
+      "amount": 8,
+      "mob": "minecraft:guardian"
+    },
+    "result": "allow"
+  },
+  {
+    "dimension": 0,
+    "mob": "minecraft:guardian",
+    "maxcount": {
+      "amount": 7,
+      "mob": "minecraft:guardian"
+    },
+    "result": "deny"
+  }
+]

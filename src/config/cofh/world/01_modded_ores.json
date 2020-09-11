@@ -1,0 +1,67 @@
+{
+  "priority": 1000000000000,
+  "populate": {
+    "roulette_ore": {
+      "enabled": "true",
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "rouletteores:roulette_ore",
+          "properties": {
+            "type": "roulette"
+          }
+        },
+        "material": "minecraft:stone",
+        "cluster-size": 1
+      },
+      "cluster-count": 16,
+      "min-height": 2,
+      "max-height": 150,
+      "retrogen": "true",
+      "biome": {
+        "restriction": "blacklist",
+        "value": [
+          "minecraft:river",
+          "minecraft:void"
+        ]
+      },
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          0
+        ]
+      }
+    },
+    "sea_lantern": {
+      "enabled": "true",
+      "distribution": "uniform",
+      "generator": {
+        "block": {
+          "name": "minecraft:sea_lantern",
+          "properties": {
+            "type": "sea_lantern"
+          }
+        },
+        "material": "minecraft:stone",
+        "cluster-size": 1
+      },
+      "cluster-count": 56,
+      "min-height": 2,
+      "max-height": 64,
+      "retrogen": "true",
+      "biome": {
+        "restriction": "blacklist",
+        "value": [
+          "minecraft:river",
+          "minecraft:void"
+        ]
+      },
+      "dimension": {
+        "restriction": "whitelist",
+        "value": [
+          0
+        ]
+      }
+    }
+  }
+}

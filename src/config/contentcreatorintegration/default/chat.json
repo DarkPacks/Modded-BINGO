@@ -1,0 +1,37 @@
+{
+  "configs": [
+    {
+      "types": {
+        "message": [
+          {
+            "conditions": [
+              {
+                "variableName": "custom-reward-id",
+                "variableResult": "0944f706-48bb-42fd-9138-7d1a1828832a",
+                "type": "variableCheck"
+              }
+            ],
+            "outcomes": [
+              {
+                "message": "Hey $playerName $user spent their valuable channel points on a Chance Cube for you!",
+                "type": "chat"
+              },
+              {
+                "command": "/give $playerName chancecubes:chance_cube",
+                "executeAsSelf": true,
+                "type": "command"
+              },
+              {
+                "sound": "trumpetskeleton:entity.trumpet_skeleton.ambient",
+                "volume": 0.25,
+                "type": "sound"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ],
+  "init": [],
+  "type": "chat"
+}

@@ -1,0 +1,1258 @@
+[
+  {
+    "name": "Ore Murder",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/tell VAR_NAME You just murdered an innocent ore :("
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Think quick",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/tell VAR_NAME Ready..."
+      },
+      {
+        "delay": 40,
+        "command": "/tell VAR_NAME Set..."
+      },
+      {
+        "delay": 80,
+        "command": "/tell VAR_NAME DIG!"
+      },
+      {
+        "delay": 81,
+        "command": "/setblock ~ ~ ~ minecraft:diamond_block"
+      },
+      {
+        "delay": 160,
+        "command": "/setblock ~ ~ ~ minecraft:air"
+      },
+      {
+        "delay": 161,
+        "command": "/tell VAR_NAME Time\u0027s Up!"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Think quick",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/tell VAR_NAME Ready..."
+      },
+      {
+        "delay": 40,
+        "command": "/tell VAR_NAME Set..."
+      },
+      {
+        "delay": 80,
+        "command": "/tell VAR_NAME DIG!"
+      },
+      {
+        "delay": 81,
+        "command": "/setblock ~ ~ ~ minecraft:emerald_block"
+      },
+      {
+        "delay": 160,
+        "command": "/setblock ~ ~ ~ minecraft:air"
+      },
+      {
+        "delay": 161,
+        "command": "/tell VAR_NAME Time\u0027s Up!"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Think quick",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/tell VAR_NAME Ready..."
+      },
+      {
+        "delay": 40,
+        "command": "/tell VAR_NAME Set..."
+      },
+      {
+        "delay": 80,
+        "command": "/tell VAR_NAME NOPE!"
+      },
+      {
+        "delay": 81,
+        "command": "/summon minecraft:ender_crystal ~ ~ ~"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Roulette Creeper",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:creeper  ~ ~ ~ {powered:1b,CustomName:\"Roulette Creeper\",ExplosionRadius:0}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Roulette Creeper",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:creeper ~ ~ ~ {powered:1b,CustomName:\"Roulette Creeper\",ExplosionRadius:0}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Roulette Creeper",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:creeper ~ ~ ~ {powered:1b,CustomName:\"Roulette Creeper\",ExplosionRadius:0}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Roulette Creeper",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:creeper ~ ~ ~ {powered:1,CustomName:\"Roulette Creeper\",ExplosionRadius:0}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Roulette Creeper",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:creeper ~ ~ ~ {powered:1,CustomName:\"Roulette Creeper\",ExplosionRadius:16}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Homing TNT",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:xp_orb ~ ~ ~ {Passengers:[{id:\"minecraft:tnt\",Fuse:200}]}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Bedrock",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:bedrock"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Roulette Ore",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ rouletteores:roulette_ore"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Gold Block",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:gold_block"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Iron Block",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:iron_block"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Diamond Block",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:diamond_block"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Coal Block",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:coal_block"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Redstone Block",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:redstone_block"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Quartz Block",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:quartz_block"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Emerald Block",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:Emerald_block"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Slime Block",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:slime"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Dragon Egg",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:dragon_egg"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Enchantment Table",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:enchanting_table"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Beacon",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:beacon"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Anvil",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:anvil"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Brewing Stand",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:brewing_stand"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Ender Chest",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:ender_chest"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Sapling",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:sapling\",Count:4,Damage:0}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Sapling",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:sapling\",Count:4,Damage:1}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Sapling",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:sapling\",Count:4,Damage:2}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Sapling",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:sapling\",Count:4,Damage:3}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Sapling",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:sapling\",Count:4,Damage:4}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Sapling",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:sapling\",Count:4,Damage:5}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Skull",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:skull\",Count:1,Damage:0}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Skull",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:skull\",Count:1,Damage:1}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Skull",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:skull\",Count:1,Damage:2}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Skull",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:skull\",Count:1,Damage:3}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Skull",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:skull\",Count:1,Damage:4}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:bed\",Count:1}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:coal\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:diamond\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:iron_ingot\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:gold_ingot\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:gunpowder\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:redstone\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:glowstone_dust\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:dye\",Count:8,Damage:4}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:bone\",Count:4}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:emerald\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:quartz\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:cookie\",Count:16}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:melon\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:cooked_beef\",Count:1}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Pie Flavored Pie",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:pumpkin_pie\",Count:1,tag:{display:{Name:\"Pie Flavored Pie\"}}}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Wall Chicken",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:cooked_chicken\",Count:1,tag:{display:{Name:\"Mysterious Wall Chicken\"}}}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:rotten_flesh\",Count:64}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:ender_pearl\",Count:4}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:blaze_rod\",Count:4}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:ghast_tear\",Count:4}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:nether_wart\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:spider_eye\",Count:4}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:blaze_powder\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:ender_eye\",Count:1}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:speckled_melon\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:nether_star\",Count:1}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:golden_carrot\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:carrot\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:potato\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:record_11\",Count:1}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:prismarine_shard\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:prismarine_crystals\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:cooked_rabbit\",Count:1}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:rabbit_foot\",Count:1}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:cooked_mutton\",Count:1}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Random Loot",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:chorus_fruit\",Count:8}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "More Ores!",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"rouletteores:roulette_ore\",Count:8}}"
+      },
+      {
+        "delay": 1,
+        "command": "/tell VAR_NAME Have some more shiny ores!"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Troll Fish",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:silverfish ~ ~ ~ {CustomName:\"Troll Fish\",CustomNameVisible:10,ActiveEffects:[{Id:11,Amplifier:10,Duration:300}]}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Gary Coleman",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:zombie ~ ~ ~ {CustomName:\"Gary Coleman\",IsBaby:1,CustomNameVisible:10}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Cluckington",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:chicken ~ ~ ~ {CustomName:\"Cluckington\",CustomNameVisible:10}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Shulker",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:shulker ~ ~ ~"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Poison Fish",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:silverfish ~ ~ ~ {CustomName:\"Poison Fish\",CustomNameVisible:1b,Passengers:[{id:\"minecraft:potion\",Potion:{id:\"minecraft:lingering_potion\",tag:{Potion:\"minecraft:long_poison\"},Count:1b}}]}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Death Fish",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:silverfish ~ ~ ~ {CustomName:\"Death Fish\",CustomNameVisible:1b,Passengers:[{id:\"minecraft:potion\",Potion:{id:\"minecraft:lingering_potion\",tag:{Potion:\"minecraft:strong_harming\"},Count:1b}}]}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Blinding Fish",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:silverfish ~ ~ ~ {CustomName:\"Blinding Fish\",CustomNameVisible:1b,Passengers:[{id:\"minecraft:potion\",Potion:{id:\"minecraft:lingering_potion\",tag:{CustomPotionEffects:[{Id:15,Amplifier:0,Duration:900,ShowParticles:0b}]},Count:1b}}]}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Paralysis Fish",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:silverfish ~ ~ ~ {CustomName:\"Paralysis Fish\",CustomNameVisible:1b,Passengers:[{id:\"minecraft:potion\",Potion:{id:\"minecraft:lingering_potion\",tag:{CustomPotionEffects:[{Id:2,Amplifier:10,Duration:900,ShowParticles:0b}]},Count:1b}}]}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Gravity Fish",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:silverfish ~ ~ ~ {CustomName:\"Gravity Fish\",CustomNameVisible:1b,Passengers:[{id:\"minecraft:potion\",Potion:{id:\"minecraft:lingering_potion\",tag:{CustomPotionEffects:[{Id:25,Amplifier:1,Duration:200,ShowParticles:0b}]},Count:1b}}]}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Famine Fish",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:silverfish ~ ~ ~ {CustomName:\"Famine Fish\",CustomNameVisible:1b,Passengers:[{id:\"minecraft:potion\",Potion:{id:\"minecraft:lingering_potion\",tag:{CustomPotionEffects:[{Id:17,Amplifier:2,Duration:200,ShowParticles:0b}]},Count:1b}}]}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Damage Potion",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:potion ~ ~ ~ {Potion:{id:\"minecraft:splash_potion\",tag:{Potion:\"minecraft:strong_harming\"},Count:1b}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "XP Bottle",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:xp_bottle ~ ~ ~"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Hugs!",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:zombie ~ ~ ~ {CustomName:\"Hugs!\",CustomNameVisible:1b,IsBaby:1b,Passengers:[{id:\"minecraft:tnt\",Fuse:200}]}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Zombie Spawner",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:mob_spawner 0 replace {SpawnData:{id:\"minecraft:zombie\"}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Cave Spider Spawner",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:mob_spawner 0 replace {SpawnData:{id:\"minecraft:cave_spider\"}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Water",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:flowing_water"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Lava",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:flowing_lava"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Bat Bomb",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:bat ~ ~ ~ {CustomName:\"Bat Bomb\",CustomNameVisible:1b,Passengers:{id:\"minecraft:ender_crystal\"}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Panic Crystal",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:ender_crystal ~ ~ ~"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "The Lie",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:cake"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Herobrine Joined",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/tellraw VAR_NAME {\"text\":\"\",\"extra\":[{\"text\":\"Herobrine joined the game\",\"color\":\"yellow\"}]}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Herobrine Taunt",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/tellraw VAR_NAME {\"text\":\"\u003cHerobrine\u003e I\u0027m coming for you VAR_NAME...\"}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Herobrine Taunt",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/tellraw VAR_NAME {\"text\":\"\u003cHerobrine\u003e I wonder how fast you can run VAR_NAME?\"}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Boom",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/playsound minecraft:entity.generic.explode master VAR_NAME"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Ssssss",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/playsound minecraft:entity.tnt.primed master VAR_NAME"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Bon Fire",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:fire"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Web",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:web"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Stone?",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:monster_egg"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Unstable TNT",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:tnt 1"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "BUFF ARMOR",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:diamond_chestplate\",Count:1b,tag:{AttributeModifiers:[{Slot:\"chest\",AttributeName:\"generic.maxHealth\",Name:\"generic.maxHealth\",Amount:6,Operation:0,UUIDLeast:894654,UUIDMost:2872}],display:{Name:\"Buff Chestplate\"},ench:[{id:0,lvl:3}]}}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "BUFF ARMOR",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:diamond_helmet\",Count:1b,tag:{AttributeModifiers:[{Slot:\"head\",AttributeName:\"generic.maxHealth\",Name:\"generic.maxHealth\",Amount:4,Operation:0,UUIDLeast:894654,UUIDMost:2872}],display:{Name:\"Buff Helmet\"},ench:[{id:0,lvl:3}]}}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "BUFF ARMOR",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:diamond_leggings\",Count:1b,tag:{AttributeModifiers:[{Slot:\"legs\",AttributeName:\"generic.maxHealth\",Name:\"generic.maxHealth\",Amount:6,Operation:0,UUIDLeast:894654,UUIDMost:2872}],display:{Name:\"Buff Leggings\"},ench:[{id:0,lvl:3}]}}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "BUFF ARMOR",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:diamond_boot\",Count:1b,tag:{AttributeModifiers:[{Slot:\"feet\",AttributeName:\"generic.maxHealth\",Name:\"generic.maxHealth\",Amount:4,Operation:0,UUIDLeast:894654,UUIDMost:2872}],display:{Name:\"Buff Boots\"},ench:[{id:0,lvl:3}]}}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "BUFF SWORD",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:item ~ ~ ~ {Item:{id:\"minecraft:diamond_sword\",Count:1b,tag:{display:{Name:\"Buff Sword\"},ench:[{id:16,lvl:5},{id:20,lvl:1},{id:21,lvl:3},{id:34,lvl:3}]}}}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Poison Mines",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/setblock ~ ~ ~ minecraft:mob_spawner 0 replace {SpawnData:{id:\"minecraft:xp_orb\",Passengers:[{id:\"minecraft:potion\",Potion:{id:\"minecraft:splash_potion\",tag:{Potion:\"strong_poison\"},Count:1b}}]},SpawnCount:1,SpawnRange:16,RequiredPlayerRange:16,MinSpawnDelay:20,MaxSpawnDelay:20,MaxNearbyEntities:8}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Herobrine",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:potion ~ ~1 ~ {Potion:{id:\"minecraft:splash_potion\",tag:{CustomPotionEffects:[{Id:15,Amplifier:0,Duration:2400,ShowParticles:0b}]},Count:1b},Passengers:[{id:\"minecraft:zombie\",CustomName:\"Herobrine\",CustomNameVisible:1b,CanBreakDoors:1b,HandItems:[{id:\"minecraft:diamond_pickaxe\",Count:1b,tag:{ench:[{id:32,lvl:5}]}},{}],ArmorItems:[{},{},{},{id:\"minecraft:skull\",Damage:3,Count:1b,tag:{SkullOwner:\"Herobrine\",ench:[{id:7,lvl:16}]}}],DropChances:[1F,1F,1F,1F,0.0F],Attributes:[{Name:\"zombie.spawnReinforcements\",Base:1.0F}],ActiveEffects:[{Id:5,Amplifier:15,Duration:199980,ShowParticles:0b},{Id:11,Amplifier:10,Duration:2400,ShowParticles:0b}],Attributes:[{Name:\"generic.maxHealth\",Base:200}],Health:200}]}"
+      }
+    ],
+    "req_mods": []
+  },
+  {
+    "name": "Slime-plosion",
+    "events": [
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      },
+      {
+        "delay": 0,
+        "command": "/summon minecraft:slime ~ ~ ~"
+      }
+    ],
+    "req_mods": []
+  }
+]
